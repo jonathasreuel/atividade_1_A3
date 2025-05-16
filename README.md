@@ -1,3 +1,15 @@
+# Setup do Projeto
+
+### MySQL
+Instale o banco MySQL e execute os comandos contidos no arquivo: setup.sql
+
+### Node JS
+Execute a API com o comando: `node index.js`
+
+## Feito isso, basta utilizar o Postman, ou outro client de APIs para testar o código.
+
+---
+
 # Padrão Utilizado: Repository
 
 ### Descrição:
